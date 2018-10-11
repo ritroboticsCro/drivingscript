@@ -1,0 +1,14 @@
+<package>
+  <description brief="ros">
+
+     ros
+
+  </description>
+  <author>nvidia</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ros</url>
+
+</package>
+
+
