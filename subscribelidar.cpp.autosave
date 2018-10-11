@@ -1,0 +1,6 @@
+#include "ros/ros.h"
+#include "sensor_msgs/LaserScan.h"
+
+using namespace std;
+
+set<int> clients;
